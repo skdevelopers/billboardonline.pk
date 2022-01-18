@@ -33,7 +33,7 @@ Author Mian Salman, SK Developers. Gomal Themes.
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - In your __.env__ file add your Google Maps API key: `GOOGLE_MAPS_API_KEY=AIzaSyBi2dVBkdQSUcV8_xxxxxxxxxxxx`
 - That's it: launch the main URL. 
-- You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__
+- You can login to adminpanel by going go `/login` URL and login with credentials __admin@skdevelopers.info__ - __password__
 - Click __Register__ on top right to add new shop / location owner and their shops / billboards
 
 
