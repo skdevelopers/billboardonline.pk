@@ -1,15 +1,15 @@
-# Laravel 8 Shops Map with Google Maps API and Adminpanel
+# Laravel 8 Billboards Slider/ Map with Google Maps API and Adminpanel
 
 Transformed [free WordPress theme Directory Starter](https://wpgeodirectory.com/downloads/directory-starter/) into fully manageable Laravel 8 project with adminpanel generated with [QuickAdminPanel](https://quickadminpanel.com), 
-to manage all the shops.
-
+to manage all the Locations or your shops.
+Author Mian Salman, SK Developers. Gomal Themes.
 ## Features
 
-- __Adminpanel__ with administrator user managing shops and categories
-- __Registration__ for shop owners who can manage their own shops - with __multi-tenancy__ included
+- __Adminpanel__ with administrator user managing locations and categories, with choice for slider / maps plesae include maps from partials in resources/views/prartial/map.blade file in views folder if you need maps.
+- __Registration__ for billboard owners who can manage their own location - with __multi-tenancy__ included
 - Adminpanel uses Google Places API with autocomplete to __automatically get coordinates from address__
 - Adminpanel uses [Spatie Opening Hours package](https://github.com/spatie/opening-hours) to manage working hours
-- Front-end uses Google Maps API to __view the map of shops__
+- Front-end uses Google Maps API to __view the map of locations__
 
 
 - - - - -
@@ -34,7 +34,7 @@ to manage all the shops.
 - In your __.env__ file add your Google Maps API key: `GOOGLE_MAPS_API_KEY=AIzaSyBi2dVBkdQSUcV8_xxxxxxxxxxxx`
 - That's it: launch the main URL. 
 - You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__
-- Click __Register__ on top right to add new shop owner and their shops
+- Click __Register__ on top right to add new shop / location owner and their shops / billboards
 
 
 - - - - -
@@ -48,14 +48,10 @@ to manage all the shops.
 
 ## License
 
-Basically, feel free to use and re-use any way you want.
+Basically, feel free to use and re-use any way you want.and if you need expert software development for your project contact us Gomal Themes, Regent Mall office 67. Faisalabad.
 
 - - - - -
 
-## More from our LaravelDaily Team
+## More from our Laravel Team
 
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+- Check out our Portfolio [Portfolio](https://www.rashidev.com/#portfolio)
